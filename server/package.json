@@ -1,0 +1,32 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "full stack developement on eccomerce",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "nanda",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "braintree": "^3.4.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^9.0.0",
+    "express": "^4.17.1",
+    "express-jwt": "^5.3.1",
+    "express-validator": "^6.10.1",
+    "formidable": "^1.2.2",
+    "fs": "0.0.1-security",
+    "i": "^0.3.6",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.12.7",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7",
+    "npm": "^7.12.0",
+    "uuid": "^3.3.3"
+  }
+}
