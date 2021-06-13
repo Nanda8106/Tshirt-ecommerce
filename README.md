@@ -1,6 +1,6 @@
 # Eccomt
 
-## description
+## Description
 This is a application that demonstrates an E-commerce Tshirt website using the MERN stack. The application loads products from MongoDB database and displays them. Users can click on any product to get more information including pricing. Users can select items and add them to their shopping cart. Admins who want to sell their products can easily create , delete, update products based on the categories.
 
 
